@@ -6,7 +6,7 @@ relação à versão que está em produção hoje.
 **Responsável pelo build:** Time Plataforma
 **Data de corte:** 2026-08-05
 **Janela de subida prevista:** sexta-feira
-
+teste
 ---
 
 ## Novidades
